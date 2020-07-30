@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Magnarius/fsd/issues"
   },
-  "homepage": "https://github.com/Magnarius/fsd#readme"
+  "homepage": "https://github.com/Magnarius/fsd#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
