@@ -1,0 +1,23 @@
+{
+  "name": "fsd",
+  "version": "1.0.0",
+  "description": "Project for Fullstack Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magnarius/fsd.git"
+  },
+  "keywords": [
+    "frontend",
+    "education"
+  ],
+  "author": "Magnarius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magnarius/fsd/issues"
+  },
+  "homepage": "https://github.com/Magnarius/fsd#readme"
+}
